@@ -1,4 +1,4 @@
-# Alex King
+# okejfine
 # Function to define process to check if valid ID. Better version would use an API call, or have some sort of pre-check
 # to make sure it is a valid BYU ID card.
 # Maybe the card swipe shows something to validate the card. This will do for now.
